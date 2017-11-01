@@ -1,0 +1,8 @@
+﻿  Project2labb1.c
+z:\project2.labb1\project2.labb1\project2labb1.c(13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+z:\project2.labb1\project2.labb1\project2labb1.c(16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+z:\project2.labb1\project2.labb1\project2labb1.c(18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+z:\project2.labb1\project2.labb1\project2labb1.c(26): warning C4474: 'printf' : too many arguments passed for format string
+  z:\project2.labb1\project2.labb1\project2labb1.c(26): note: placeholders and their parameters expect 1 variadic arguments, but 3 were provided
+  Project2.Labb1.vcxproj -> Z:\Project2.Labb1\Debug\Project2.Labb1.exe
+  Project2.Labb1.vcxproj -> Z:\Project2.Labb1\Debug\Project2.Labb1.pdb (Partial PDB)
